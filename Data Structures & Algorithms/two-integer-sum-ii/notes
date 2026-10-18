@@ -1,0 +1,3 @@
+to add to this post here, the main difficulty I found was understand the concept of 1-indexing when specifically returning the indexes. though it made plenty of sense in hindsight, it was really weird to have to 1-index my arrays after I had already 0-indexed them.
+
+definitely something noteworthy.
